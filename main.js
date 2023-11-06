@@ -27,6 +27,7 @@ btn.addEventListener('click', (e) => {
  });
 */
 
+//Document Object Model work
 const myForm = document.querySelector('#my-form');
 const nameInput = document.querySelector('#name');
 const emailInput = document.querySelector('#email');
